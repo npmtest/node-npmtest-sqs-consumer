@@ -1,4 +1,7 @@
-# test coverage for  [sqs-consumer (v3.5.0)](https://github.com/BBC/sqs-consumer)  [![npm package](https://img.shields.io/npm/v/npmtest-sqs-consumer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sqs-consumer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sqs-consumer.svg)](https://travis-ci.org/npmtest/node-npmtest-sqs-consumer)
+# npmtest-sqs-consumer
+
+#### basic test coverage for  [sqs-consumer (v3.5.0)](https://github.com/BBC/sqs-consumer)  [![npm package](https://img.shields.io/npm/v/npmtest-sqs-consumer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sqs-consumer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sqs-consumer.svg)](https://travis-ci.org/npmtest/node-npmtest-sqs-consumer)
+
 #### Build SQS-based Node applications without the boilerplate
 
 [![NPM](https://nodei.co/npm/sqs-consumer.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sqs-consumer)
